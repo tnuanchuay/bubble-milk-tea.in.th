@@ -1,2 +1,6 @@
 # bubble-milk-tea.in.th
-Bubble milk tea list 
+List of milk tea shop in BKK
+
+| Shop | Menu | Rating | Comment |
+| ---- | ---- | ------ | ------- |
+| ATM Tea bar | Taste of Hokkaido | 6/10 | - |
